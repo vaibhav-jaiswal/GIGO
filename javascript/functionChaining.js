@@ -1,3 +1,5 @@
+// http://www.codewars.com/kata/a-chain-adding-function/train/javascript
+
 function add(n){
   // Let the currying begin!
   var sum;

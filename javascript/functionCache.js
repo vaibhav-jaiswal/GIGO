@@ -1,3 +1,4 @@
+//http://www.codewars.com/kata/function-cache/train/javascript
 function cache(func) {
   // do your magic here
   var _target = func;
